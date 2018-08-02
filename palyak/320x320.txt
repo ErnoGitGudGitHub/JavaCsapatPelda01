@@ -1,0 +1,8 @@
+textures/textures_320.txt
+5 5
+10 10
+1
+0 0 Z
+2 2 E
+4 4 J
+5 5 R

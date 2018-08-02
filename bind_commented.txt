@@ -1,0 +1,32 @@
+W	//ezredes Észak 0
+D	//ezredes Kelet 1
+S	//ezredes Dél 2
+A	//ezredes Nyugat 3
+Q	//kék lövés Ezredes 4
+E	//sárga lövés Ezredes 5 
+R	//ezredes tárgyat használ 6
+1	//pálya váltás 7
+I	//jaffa Észak 8
+L	//jaffa Kelet 9
+K	//jaffa Dél 10
+J	//jaffa Nyugat 11
+U	//piros lövés Jaffa 12
+O	//zöld lövés Jaffa 13
+P	//jaffa tágyat használ 14
+2	//pause gomb 15
+ENTER	//Nagy képernyõre rakja, ha az alapértelmezett méreten található az ablak 16
+ESCAPE	//nagy képernyõböl kilép, illetve ha alapértelmezett méreten van az ablak, akkor bezárja a programot 17
+0	//aktuális pálya újraindítása 18
+5	//editor és a játék mód között vált 19
+F1	//súgó 20
+F2	//szakadék lerakása 21
+F3	//fal lerakása 22
+F4	//speciálisfal lerakása 23
+F5	//ajtó lerakása 24
+F6	//ajtóhoz tartozó mérleg lerakása 25
+F12	//zpm lerakása 26
+F9	//doboz lerakása 27
+F8	//editor padló le 28
+Z	//jaffa lerakása 29
+END	//az editorral a módosításokat elmenti 30
+F7	//az editorhoz tartozó csak üres Mérleg lerakása, ajtó nélkül 31
